@@ -56,7 +56,7 @@ void main()
             break;
         }
         else if (okData < 1 || okData>2) {
-            cout << "надо вводить 1 или 2 ";
+            cout <<"надо вводить 1 или 2";
         }
     }
     
